@@ -8,7 +8,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  top_rappers = ["Jay-z", "Lil Wayne", "J. Cole", "Rick Ross"]
+    array = ["wow", "I", "am", "really", "learning"]
   top_rappers << "arrays!"
 end
 
