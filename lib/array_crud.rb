@@ -9,7 +9,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   top_rappers = ["Jay-z", "Lil Wayne", "J. Cole", "Rick Ross"]
-  top_rappers >> "Kanye West"
+  top_rappers << "Kanye West"
 end
 
 def add_element_to_start_of_array(array, element)
